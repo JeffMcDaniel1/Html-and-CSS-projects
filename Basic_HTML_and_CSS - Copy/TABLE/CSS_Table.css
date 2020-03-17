@@ -1,0 +1,18 @@
+table {
+	border: #F0F8FF;
+}
+td:hover {
+	background-color: #D2691E;
+	color: #000000;
+}
+tr, th {
+	background-color: #000000;
+	color: #FFF8DC;
+}
+tr, td {
+	background-color: darkgreen;
+	color: white;
+}
+style="width:100%"{
+	
+}
